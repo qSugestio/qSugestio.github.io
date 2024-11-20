@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/circle-interaction/static/css/main.fd110413.css",
-    "main.js": "/circle-interaction/static/js/main.428688f7.js",
-    "index.html": "/circle-interaction/index.html",
-    "main.fd110413.css.map": "/circle-interaction/static/css/main.fd110413.css.map",
-    "main.428688f7.js.map": "/circle-interaction/static/js/main.428688f7.js.map"
+    "main.css": "./static/css/main.fd110413.css",
+    "main.js": "./static/js/main.428688f7.js",
+    "index.html": "./index.html",
+    "main.fd110413.css.map": "./static/css/main.fd110413.css.map",
+    "main.428688f7.js.map": "./static/js/main.428688f7.js.map"
   },
   "entrypoints": [
     "static/css/main.fd110413.css",
